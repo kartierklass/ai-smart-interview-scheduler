@@ -1,0 +1,36 @@
+## Senior Full-Stack Developer Position
+
+We are seeking a talented Senior Full-Stack Developer to join our dynamic engineering team. The ideal candidate will have strong expertise in modern web technologies and be passionate about building scalable, user-centric applications.
+
+### Key Responsibilities:
+- Design and develop robust web applications using React.js and Node.js
+- Build and maintain RESTful APIs and microservices
+- Collaborate with UI/UX designers to implement responsive, accessible interfaces
+- Work with databases (PostgreSQL, MongoDB) to design efficient data models
+- Implement CI/CD pipelines and contribute to DevOps practices
+- Mentor junior developers and participate in code reviews
+- Optimize application performance and ensure security best practices
+
+### Required Technical Skills:
+- **Frontend**: React.js, TypeScript, HTML5, CSS3, Tailwind CSS
+- **Backend**: Node.js, Express.js, RESTful API design
+- **Databases**: PostgreSQL, MongoDB, Redis
+- **DevOps**: Docker, AWS/Azure, CI/CD pipelines
+- **Version Control**: Git, GitHub/GitLab
+- **Testing**: Jest, Cypress, unit and integration testing
+
+### Preferred Experience:
+- 5+ years of full-stack development experience
+- Experience with Next.js, GraphQL, and serverless architecture
+- Knowledge of Python, Go, or other backend languages
+- Experience with cloud platforms (AWS, Azure, GCP)
+- Understanding of system design and architecture patterns
+- Agile/Scrum development methodologies
+
+### Soft Skills:
+- Strong problem-solving abilities
+- Excellent communication and teamwork skills
+- Leadership experience and mentoring capabilities
+- Adaptability and continuous learning mindset
+
+This role offers the opportunity to work on cutting-edge projects, lead technical initiatives, and shape the future of our product development.

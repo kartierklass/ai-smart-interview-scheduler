@@ -1,0 +1,11 @@
+Name,Email,Position,Experience,Skills,Preferred Date,Notes
+John Smith,john.smith@email.com,Senior Software Engineer,5 years,"React, TypeScript, Node.js, PostgreSQL, Git",2024-08-26,Available mornings
+Sarah Johnson,sarah.johnson@email.com,Frontend Developer,3 years,"Vue.js, CSS3, JavaScript, HTML5, Webpack",2024-08-27,Flexible timing
+Mike Davis,mike.davis@email.com,Full Stack Developer,4 years,"Python, Django, React, PostgreSQL, REST APIs",2024-08-28,Prefers afternoon
+Emily Chen,emily.chen@email.com,UI/UX Designer,2 years,"Figma, Adobe Creative Suite, Sketch, Prototyping, User Research",2024-08-29,Any time works
+David Wilson,david.wilson@email.com,Backend Engineer,6 years,"Java, Spring Boot, MySQL, Microservices, Redis",2024-08-30,Morning preferred
+Lisa Brown,lisa.brown@email.com,DevOps Engineer,4 years,"AWS, Docker, Kubernetes, Jenkins, Terraform",2024-09-02,Available all day
+Alex Rodriguez,alex.rodriguez@email.com,Mobile Developer,3 years,"React Native, Flutter, Swift, Android SDK, Firebase",2024-09-03,Afternoon only
+Jessica Lee,jessica.lee@email.com,Data Scientist,5 years,"Python, R, Machine Learning, TensorFlow, SQL",2024-09-04,Flexible schedule
+Chris Taylor,chris.taylor@email.com,Product Manager,4 years,"Agile, Scrum, Product Strategy, Analytics, Roadmapping",2024-09-05,Morning meetings preferred
+Ashley Kim,ashley.kim@email.com,QA Engineer,3 years,"Selenium, Cypress, Testing, Automation, JIRA",2024-09-06,Any time available

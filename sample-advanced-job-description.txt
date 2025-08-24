@@ -1,0 +1,51 @@
+## Senior AI Engineer - Machine Learning Platform
+
+We are seeking an exceptional Senior AI Engineer to join our cutting-edge machine learning platform team. This role requires deep expertise in artificial intelligence, machine learning algorithms, and scalable system architecture.
+
+### Key Responsibilities:
+- Design and implement production-ready machine learning models using TensorFlow and PyTorch
+- Build and maintain ML pipelines using MLOps tools like Kubeflow, MLflow, and Airflow
+- Develop scalable data processing systems with Apache Spark and Kafka
+- Implement real-time inference systems using FastAPI and Redis
+- Collaborate with data scientists to deploy research models to production
+- Optimize model performance for high-throughput, low-latency environments
+- Design A/B testing frameworks for model evaluation
+
+### Required Technical Skills:
+- **Machine Learning**: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy
+- **Programming**: Python (advanced), SQL, Docker, Kubernetes
+- **Cloud Platforms**: AWS (SageMaker, EC2, S3), GCP, or Azure
+- **Data Engineering**: Apache Spark, Kafka, Airflow, BigQuery
+- **MLOps**: MLflow, Kubeflow, Weights & Biases, DVC
+- **Backend**: FastAPI, Flask, REST APIs, microservices architecture
+- **Databases**: PostgreSQL, MongoDB, Redis, Vector databases (Pinecone, Weaviate)
+
+### Advanced Requirements:
+- **Deep Learning**: Computer Vision, NLP, Transformers, BERT, GPT models
+- **Model Optimization**: ONNX, TensorRT, model quantization, pruning
+- **Distributed Computing**: Ray, Dask, multi-GPU training
+- **Monitoring**: Prometheus, Grafana, model drift detection
+- **Version Control**: Git, DVC for data versioning
+- **CI/CD**: Jenkins, GitHub Actions, automated model deployment
+
+### Experience Level:
+- 5+ years in machine learning engineering or related field
+- 3+ years with production ML systems at scale
+- Experience with end-to-end ML project lifecycle
+- Track record of deploying models serving millions of requests
+
+### Soft Skills & Leadership:
+- Strong problem-solving and analytical thinking
+- Experience mentoring junior engineers
+- Excellent communication with technical and non-technical stakeholders
+- Ability to work in fast-paced, ambiguous environments
+- Cross-functional collaboration with data science, engineering, and product teams
+
+### Preferred Qualifications:
+- PhD/MS in Computer Science, Machine Learning, or related field
+- Published research in ML conferences (NeurIPS, ICML, ICLR)
+- Experience with large language models and prompt engineering
+- Knowledge of reinforcement learning and recommendation systems
+- Contribution to open-source ML projects
+
+This is a highly technical role requiring both theoretical understanding and practical implementation skills. The ideal candidate will bridge the gap between research and production, ensuring our AI systems are robust, scalable, and impactful.
